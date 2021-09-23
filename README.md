@@ -12,3 +12,7 @@ Simple, advanced, easy-to-use Tiktok Botter made in python.
 
 ## Credits
 - [Zefoy.com](https://zefoy.com)
+
+
+# Video Tutorial
+[Click Me!](**Video Tutorial:** https://youtu.be/uHeioqyEo6g)
