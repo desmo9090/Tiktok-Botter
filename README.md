@@ -15,4 +15,4 @@ Simple, advanced, easy-to-use Tiktok Botter made in python.
 
 
 # Video Tutorial
-[Click Me!](https://youtu.be/uHeioqyEo6g)
+- You can watch the tutorial by [Clicking Here](https://youtu.be/uHeioqyEo6g).
